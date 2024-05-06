@@ -1,0 +1,4 @@
+golang.org/x/crypto v0.16.0 h1:mMMrFzRSCF0GvB7Ne27XVtVAaXLrPmgPC7/v0tkwHaY=
+golang.org/x/crypto v0.16.0/go.mod h1:gCAAfMLgwOJRpTjQ2zCCt2OcSfYMTeZVSRtQlPC7Nq4=
+maze.io/x/crypto v0.0.0-20190131090603-9b94c9afe066 h1:UrD21H1Ue5Nl8f2x/NQJBRdc49YGmla3mRStinH8CCE=
+maze.io/x/crypto v0.0.0-20190131090603-9b94c9afe066/go.mod h1:DEvumi+swYmlKxSlnsvPwS15tRjoypCCeJFXswU5FfQ=
